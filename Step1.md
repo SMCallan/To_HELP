@@ -1,3 +1,5 @@
+[Back to Main README](README.md)
+
 ### Step 1: Create a Project Folder
 
 **Objective**: To create a folder on your computer's desktop where you will store all files related to your project, "ELATT_Coursework".
@@ -37,3 +39,6 @@
 ---
 
 This guide is structured to be clear and straightforward, avoiding technical jargon and providing detailed instructions for each action. Using visual aids like screenshots or short videos for each step can further enhance understanding, especially for non-native English speakers.
+[Back to Main README](README.md)
+
+
