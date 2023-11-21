@@ -1,3 +1,4 @@
+[Back to Main README](README.md)
 ### Step 6: Basic Functionality for Searching and Displaying Data
 
 **Objective**: Develop features in your Python program to search for specific departments or employees and display their relevant information from the CSV files.
@@ -81,3 +82,4 @@
 ---
 
 This step focuses on adding search functionality to your Python application, allowing you to query and display specific data from your CSV files. This essential feature enhances the interactivity and practicality of your project, providing foundational skills in data handling and user input processing.
+[Back to Main README](README.md)
