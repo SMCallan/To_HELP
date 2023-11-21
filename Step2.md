@@ -1,3 +1,5 @@
+[Back to Main README](README.md)
+
 ### Step 2: Set Up Your Python File
 
 **Objective**: To create a Python file named `main.py` inside your project folder "ELATT_Coursework". This file will be the main file where you write your Python code for the project.
@@ -40,3 +42,5 @@
 ---
 
 This step guides you through creating the central file for your Python project. It's written to be simple and easy to follow, especially for those who might be new to programming or working with files and text editors.
+[Back to Main README](README.md)
+
