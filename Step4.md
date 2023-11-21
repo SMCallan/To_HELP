@@ -1,3 +1,5 @@
+[Back to Main README](README.md)
+
 ### Step 4: Implementing the Menu System
 
 **Objective**: Create a simple console menu system in the `main.py` file. This menu will display different options (like searching and displaying departments or employees), and you will use the `input()` function to let the user choose an option.
@@ -64,3 +66,5 @@
 ---
 
 This step guides you through implementing a basic menu system in your Python project. The menu allows the user to interact with your program by selecting options, which is a fundamental aspect of creating user-friendly console applications. The instructions are designed to be simple, providing a practical example of how to create and use functions in Python.
+[Back to Main README](README.md)
+
