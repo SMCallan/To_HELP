@@ -1,48 +1,21 @@
-# Ten Step Plan
+# ELATT Coursework Project
 
-### 1. **Create a Project Folder**
+This repository contains the ELATT Coursework project, a Python application designed to teach basic programming concepts, focusing on file operations, data handling, and user interaction. The project is structured as a Ten Step Plan, each step guiding through a different aspect of application development.
 
-- **On the Desktop**: Create a folder named "ELATT_Coursework". This will be where all your project files reside.
+## Ten Step Plan
 
-### 2. **Set Up Your Python File**
+1. [Create a Project Folder](Step1.md)
+2. [Set Up Your Python File](Step2.md)
+3. [Basic File Operations](Step3.md)
+4. [Implementing the Menu System](Step4.md)
+5. [CRUD Operations for Departments and Employees](Step5.md)
+6. [Basic Functionality for Searching and Displaying Data](Step6.md)
+7. [Error Handling](Step7.md)
+8. [Comments and Documentation](Step8.md)
+9. [Manual Testing](Step9.md)
+10. [Refinement](Step10.md)
 
-- **Main Python File**: Inside your project folder, create a file named `main.py`. This will be the entry point of your application.
+## Conclusion
 
-### 3. **Basic File Operations**
+This project serves as a practical introduction to Python programming. It's designed to provide hands-on experience with core programming concepts in a structured and user-friendly manner.
 
-- **CSV File Handling**: Learn and implement basic operations to read from and write to CSV files. Python's built-in `csv` module will be sufficient for this.
-
-### 4. **Implementing the Menu System**
-
-- **Simple Console Menu**: In `main.py`, create a function that prints out menu options to the console. For example, options to search departments, display departments, search employees, display employee details, etc.
-- **User Input**: Use the `input()` function to allow the user to select an option from the menu.
-
-### 5. **CRUD Operations for Departments and Employees**
-
-- **Create Functions**: Write functions for creating, reading, updating, and deleting information in your CSV files. Keep these functions as simple as possible.
-- **Integrate Functions with Menu**: Call these functions based on the user’s menu selection.
-
-### 6. **Basic Functionality for Searching and Displaying Data**
-
-- **Search and Display Departments/Employees**: Implement features to search for specific departments or employees and display relevant information.
-
-### 7. **Error Handling**
-
-- **Basic Error Checks**: Include simple error checks to handle common scenarios like entering an invalid menu option or issues with reading/writing files.
-
-### 8. **Comments and Documentation**
-
-- **Code Comments**: Add comments to your code to explain what each part does. This is crucial for understanding and maintaining your code.
-- **Documenting Functions**: Write brief comments above each function explaining what it does.
-
-### 9. **Manual Testing**
-
-- **Run and Test**: Regularly run your program and manually test each feature to make sure it works as expected. Address any bugs or issues you find.
-
-### 10. **Refinement**
-
-- **Iterate and Improve**: Based on your testing, refine and improve the code. Simplify any complex parts and make sure everything works smoothly.
-
-### Conclusion
-
-This guide focuses on the essentials, keeping the complexity low while ensuring you learn and apply key programming concepts. The aim is to create a functional, user-friendly application that meets your project requirements without overwhelming you with advanced techniques or tools.
